@@ -23,7 +23,7 @@ or
 ```
 
 ### Formatting
-The keywords are divided into the same four types as in the highlighting done by `emacs`. By default, all four types are typeset in the same style. You can choose an individual style for each type:
+The keywords are divided into the same four types as in the highlighting done by `emacs`. By default, all four types are typeset in the same style. Individual styles can be chosen for each type:
 ```LaTeX
 \lstset
 {
